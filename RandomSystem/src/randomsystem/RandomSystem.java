@@ -10,7 +10,7 @@ public class RandomSystem {
     public static void main(String[] args) {
 
         System.out.print("HEHEHEHEHE");
-        
+        new Home().setVisible(true);
     }
     
 }
